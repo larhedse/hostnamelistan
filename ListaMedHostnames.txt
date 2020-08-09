@@ -23,6 +23,7 @@
 0.0.0.0 baby.squeezenetwork.com
 0.0.0.0 fab4.squeezenetwork.com
 0.0.0.0 signal.mydlink.com
+0.0.0.0 web.facebook.com
 0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 adsmarketart.com
