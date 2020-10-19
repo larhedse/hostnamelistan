@@ -63,3 +63,7 @@
 0.0.0.0 szn.services
 0.0.0.0 utenti.info
 0.0.0.0 utenti.live
+0.0.0.0 media.adten.eu
+0.0.0.0 cdn-e.adten.eu
+0.0.0.0 delivery.adten.eu
+0.0.0.0 consentcdn.cookiebot.com
