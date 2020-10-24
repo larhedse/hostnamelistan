@@ -72,3 +72,5 @@
 0.0.0.0 adten.de
 0.0.0.0 adten.eu
 0.0.0.0 adtech.eu
+0.0.0.0 g.doubleclick.net
+0.0.0.0 doubleclick.net
