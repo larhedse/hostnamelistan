@@ -74,3 +74,4 @@
 0.0.0.0 adtech.eu
 0.0.0.0 g.doubleclick.net
 0.0.0.0 doubleclick.net
+0.0.0.0 funzionanez.info
